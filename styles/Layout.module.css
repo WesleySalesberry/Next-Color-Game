@@ -1,0 +1,29 @@
+.container{
+  /* background-color: var(--bg-color);  */
+  height: 110vh;
+}
+
+.body_container{
+  margin: 0 auto;
+  max-width: 960px;
+  padding: 0 30px;
+}
+
+.body_container h2{
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  height: 100%;
+}
+
+.color{
+  color: var(--guess-color)
+}
+
+
+
+.square_container{
+  max-width: 600px;
+margin: 0 auto;
+padding-top: 20px;
+}

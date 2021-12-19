@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.container .message{
+    text-align: center;
+}
+
+.play_again{
+    cursor: pointer;
+}

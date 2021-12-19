@@ -1,0 +1,25 @@
+.selector{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.selector ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style: none;
+}
+
+.selector ul li{
+    margin: 20px 10px;
+    cursor: pointer;
+}
+
+.selector .reset{
+    cursor: pointer;
+}
+
+.color{
+    color: var(--guess-color)
+}
